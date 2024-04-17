@@ -1,0 +1,11 @@
+1. use dynamic arraylist for lib book rec (Done)
+2. pass parameters to func using the object itself(this) (Done)
+3. check end of file without using exception  ** (Done)
+4. handle out of bound array writing(LBR 55)  ** (Done)
+
+Instant change in POPUP (Done)
+Redesign in addBook popup (Done)
+Multiple checks
+67 maintainer log in - add exception (Done)
+Array out of index For maintainer create account (X)
+borrow function (no books available)(Done)
